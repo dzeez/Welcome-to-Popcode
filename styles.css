@@ -1,0 +1,15 @@
+/* I'm the CSS panel, I style your page */
+body {
+    font-size: 150%;
+    color: orange;
+    height: 100vh;
+    padding: 1em;
+}
+h1 {
+    font-family: sans-serif;
+}
+p {
+    font-size: 20px;
+    padding: 3px;
+    font-family: monospace;
+}
